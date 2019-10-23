@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1535099091
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ef2a6447fd352172e9f72c9c8250acf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0d1ac7cb22e11658cc0946a7ad560b82
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1525d0271e688124a89c38774754188e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc6a738e9da977c4cb576fd5b17b6073, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/ProductPrefabs/Sinks/SI0007_ELA_82000 (test bundles).prefab
+Dependencies:
+- D:/workspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/faucets
+- D:/workspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/soap_dispensers
